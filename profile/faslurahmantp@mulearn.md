@@ -34,5 +34,6 @@ Passionate about building deep learning applications, gaming, Linux, and continu
 - Target data scientist or machine learning engineer roles at tech companies
 
 ## Important Links:
+- Mu Learn Profile Link: https://app.mulearn.org/profile/faslurahmantp@mulearn
 - Linkedin : https://www.linkedin.com/in/faslu-rahman-tp-kpr-ba2236201/
 - Git: https://github.com/fazleo
