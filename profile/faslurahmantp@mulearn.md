@@ -1,39 +1,51 @@
-## About Me
+# Faslu Rahman TP
+### About Me
 
-Currently pursuing BTech in Computer Science and Engineering at MEA Engineering College and BS in Data Science and Applications at IIT Madras
-Skilled in Python, TensorFlow, computer vision, data analysis, and machine learning
-Passionate about building deep learning applications, gaming, Linux, and continuously enhancing skills
+> Currently pursuing BTech in Computer Science and Engineering at MEA Engineering College and BS in Data Science and Applications at IIT Madras Skilled in Python, TensorFlow, computer vision, data analysis, and machine learning Passionate about building deep learning applications, gaming, Linux, and continuously enhancing skills.
 
-## Portfolio Highlights
+
+### Portfolio Highlights
 
 - Object detection model comparing YOLO architectures
 - Image captioning model using CNN and RNN
 - Intermidiate Web Dev
-  
 
 
 
-## Highly Used Software Tools
+#### Leadership and Influence: `required field`
 
-- Python: For data analysis, machine learning, deep learning projects
-- C/C++
-- Java, JS
-- TensorFlow: Building and training neural networks
-- OpenCV: For computer vision and image processing tasks
-- MySQL: For database management in web applications
+- Worked as  intern at CSE NIT Calicut for a funded computer vision project.
+- IEEE MEA Member.
+
+#### Networking: `required field`
+
+  - Look forward to engaging with Top 100 community and networking with innovators.
+  - Plan to participate in events, share machine learning expertise, and learn from others.
+
+#### As a Top 100 Member: `required field`
+
+- Will collaborate to brainstorm ideas, provide feedback, and explore partnerships.
+- Aligns with career goal to advocate for more AI/ML adoption in Kerala.
+
+#### Career Plan: `required field`
+
+- Increase open source contributions in AI/ML domains
+- Aspire to join or start an AI-focused startup to build innovative products.
+- Participate in outreach activities to get students excited about STEM fields.
+
+#### Thoughts on Kerala's Tech Ecosystem: `required field`
+
+- Promote entrepreneurship in colleges via incubators, mentoring, events.
+- Foster a collaborative culture and strong founder network.
 
 
-## Career Plan
+#### Competitive Website Profiles:
 
-- Gain more work experience through internships in deep learning and software development
-- Build expertise in computer vision, NLP, predictive modeling, and analytics
-- Work on challenging real-world industry projects to sharpen skills
-- Get involved in hackathons and coding competitions
-- Pursue higher studies at premier institutes in relevant specializations
-- Obtain certifications in sought-after skills like AWS, Tableau, Spark etc.
-- Target data scientist or machine learning engineer roles at tech companies
+- Linkedin: https://www.linkedin.com/in/faslu-rahman-tp-kpr-ba2236201/
+- Github: [github/fazleo.](https://github.com/fazleo).
+- Hackerrank: https://www.hackerrank.com/profile/faz007.
 
-## Important Links:
-- Mu Learn Profile Link: https://app.mulearn.org/profile/faslurahmantp@mulearn
-- Linkedin : https://www.linkedin.com/in/faslu-rahman-tp-kpr-ba2236201/
-- Git: https://github.com/fazleo
+
+
+
+>> check out https://app.mulearn.org/profile/faslurahmantp@mulearn
